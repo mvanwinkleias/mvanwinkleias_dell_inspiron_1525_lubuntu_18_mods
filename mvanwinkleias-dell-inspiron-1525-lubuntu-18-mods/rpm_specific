@@ -1,0 +1,7 @@
+#Requires: 
+AutoReqProv: no 
+Summary: Allieviates Ubuntu / Lubuntu problems with Dell Inspiron 1525 laptops
+Group: Generic Group
+License: Generic License
+Vendor: Generic Vendor
+BuildArch: noarch

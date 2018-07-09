@@ -1,0 +1,5 @@
+SHELL=/bin/bash
+PATH=/sbin:/bin:/usr/sbin:/usr/bin
+MAILTO=root@localhost
+
+# 50 6 * * * root /opt/IAS/bin/mvanwinkleias-dell-inspiron-1525-lubuntu-18-mods/hello.sh 

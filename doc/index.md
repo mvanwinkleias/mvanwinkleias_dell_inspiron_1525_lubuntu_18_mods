@@ -1,0 +1,3 @@
+# mvanwinkleias_dell_inspiron_1525_lubuntu_18_mods
+
+This is the supplemental root documentation for mvanwinkleias_dell_inspiron_1525_lubuntu_18_mods
