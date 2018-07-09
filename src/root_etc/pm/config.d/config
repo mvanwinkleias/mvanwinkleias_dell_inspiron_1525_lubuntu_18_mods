@@ -1,1 +1,3 @@
+# This prevents the wireless card from being unavailable
+# after a suspend
 SUSPEND_MODULES="iwl3945"
