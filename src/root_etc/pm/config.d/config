@@ -1,3 +1,5 @@
+# this apparently didn't do the trick
+# after a long suspend time the wireless card didn't come back.
 # This prevents the wireless card from being unavailable
 # after a suspend
-SUSPEND_MODULES="iwl3945"
+# SUSPEND_MODULES="iwl3945"
